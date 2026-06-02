@@ -1,0 +1,36 @@
+aid: bbot
+name: Bbot
+description: >-
+  Bbot is an order-and-pay solution for the hospitality industry, letting guests
+  scan a QR code to view menus, order, and pay from their phones, including
+  placing orders with a server on the same tab. Bbot was acquired by DoorDash
+  and is now offered as Tableside Order & Pay by DoorDash, serving restaurants,
+  bars, breweries, and hotels with on-premise digital ordering and payment, plus
+  POS integrations such as Toast. Bbot operates owner and admin web portals but
+  does not publish a standalone public or partner-facing developer API or
+  documentation portal, so no API products are listed here.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Restaurant
+  - Order And Pay
+  - Tableside
+  - Hospitality
+  - Point Of Sale
+apis: []
+url: https://raw.githubusercontent.com/api-evangelist/bbot/refs/heads/main/apis.yml
+created: '2026-06-02'
+modified: '2026-06-02'
+specificationVersion: '0.19'
+common:
+  - type: Website
+    url: https://owner.bbot.menu/
+  - type: Login
+    url: https://app.bbot.menu/
+  - type: Support
+    url: https://dd1psupport.zendesk.com/hc/en-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bbot
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
