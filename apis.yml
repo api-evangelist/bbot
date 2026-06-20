@@ -10,7 +10,7 @@ description: >-
   does not publish a standalone public or partner-facing developer API or
   documentation portal, so no API products are listed here.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Restaurant
   - Order And Pay
