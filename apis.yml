@@ -23,6 +23,8 @@ created: '2026-06-02'
 modified: '2026-06-02'
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/bbot-domain-security.yml
   - type: Website
     url: https://owner.bbot.menu/
   - type: Login
