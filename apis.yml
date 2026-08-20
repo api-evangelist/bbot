@@ -27,6 +27,12 @@ tags:
   - Order And Pay
   - Tableside
   - Hospitality
+  - Point-of-Sale
+tags_raw:
+  - Restaurant
+  - Order And Pay
+  - Tableside
+  - Hospitality
   - Point Of Sale
 apis: []
 url: https://raw.githubusercontent.com/api-evangelist/bbot/refs/heads/main/apis.yml
