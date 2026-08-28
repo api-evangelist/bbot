@@ -10,6 +10,17 @@ description: >-
   does not publish a standalone public or partner-facing developer API or
   documentation portal, so no API products are listed here.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
