@@ -35,7 +35,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bbot.png
 tags:
   - Restaurant
-  - Order And Pay
+  - Order and Pay
   - Tableside
   - Hospitality
   - Point-of-Sale
